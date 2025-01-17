@@ -2,7 +2,7 @@
 
 # African Intelligence
 
-![Solana Agent Kit Cover 1 (3)]("https://pictr.com/images/2025/01/17/xpmVSI.jpg)
+![Solana Agent Kit Cover 1 (3)](https://pictr.com/images/2025/01/17/xpmVSI.jpg)
 
 ![NPM Downloads](https://img.shields.io/npm/dm/solana-agent-kit?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=for-the-badge)
