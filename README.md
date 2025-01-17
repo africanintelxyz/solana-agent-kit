@@ -16,11 +16,11 @@ Vision: To empower African communities through decentralized, ethical AI solutio
 
 Aspiration: To become a leading force in developing and deploying AI technologies that prioritize African values, data privacy, and community ownership.
 
-Project Focus:
+## Project Focus:
 
 ## Decentralized AI Platform:
 
-## Focus: Building an open-source platform for developing and deploying AI models. This platform will be decentralized, leveraging blockchain technology to ensure data security and user ownership.
+Focus: Building an open-source platform for developing and deploying AI models. This platform will be decentralized, leveraging blockchain technology to ensure data security and user ownership.
 
 ## Key Features:
 - Federated Learning: Train AI models collaboratively across multiple devices and locations, minimizing data transfer and maximizing privacy.
